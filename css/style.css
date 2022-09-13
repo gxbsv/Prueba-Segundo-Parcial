@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600&family=Open+Sans:wght@300;400;500;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,300;1,400&display=swap');
+
+body{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+}
+
+#hero{
+	text-align: right;
+	
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+#HERO{
+	text-align: right;
+}
+ 
+.btn-oferta{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #00000;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border-radius: 30px;
+	padding: 10px 20px;
+	border-solid: 1px;
+	margin-bottom:20px;
+}
+
+.btn-mas-informacion{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #00000;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border-radius: 30px;
+	padding: 10px 20px;
+	border-solid: 1px;
+	margin-bottom:20px;
+}
+
+#Products{
+	background-color:#ffff;
+	padding: 3%
+	
+}
+
+.subtitulo{
+	text-align: center;
+	padding: 2%;
+}
+
+#footer-info{
+	background-color:#f7f7f7;
+	padding: 5%;
+	font-size: 16px;
+}
+
+#footer-copy{
+	font-size:15px;
+	padding: 2%;
+}
